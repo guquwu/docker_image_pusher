@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 phpipam/phpipam-cron
 phpipam/phpipam-www
+mariadb/mariadb:10.11
