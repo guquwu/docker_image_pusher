@@ -7,3 +7,4 @@
 phpipam/phpipam-cron
 phpipam/phpipam-www
 mariadb/mariadb
+threatbook/hfish-server:latest
